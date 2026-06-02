@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=70&lines=%E2%96%A3+BENEFITS+ABOVE+ALL+%E2%96%A2;%3E_+REVERSIBLE+FATE+PROTOCOL;%3E_+REFINING+THE+SOUL+STACK..." alt="Fang Yuan System Typing" />
 </p>
 ---
-
 ## 📊 TELEMETRY DIAGNOSTICS (CORE PERFORMANCE)
 
 <table width="100%">
