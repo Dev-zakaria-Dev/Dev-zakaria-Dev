@@ -1,13 +1,12 @@
 # 🌐 CORE NETWORK NODE: DEV-ZAKARIA-DEV
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=transparent&color=00FF66&height=120&section=header&text=%E2%96%A3%20SYSTEM%20ONLINE%20%E2%96%A2&fontSize=35&animation=blinking&fontColor=00FF66&fontAlignY=60" alt="Advanced Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=1500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=80&lines=%E2%96%A3+SYSTEM+ONLINE+%E2%96%A2" alt="System Online Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E_++INITIALIZING+ADVANCED+PROTOCOLS...;%3E_++COMPILING+MODULAR+MONOLITHS;%3E_++OPTIMIZING+DATABASE+INDEXES;%3E_++ZERO+DOWNTIME+DEPLOYMENT+READY" alt="Terminal Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A2A2A2&center=true&vCenter=true&width=550&lines=%3E_++INITIALIZING+ADVANCED+PROTOCOLS...;%3E_++COMPILING+MODULAR+MONOLITHS;%3E_++OPTIMIZING+DATABASE+INDEXES" alt="Terminal Text" />
 </p>
-
 ---
 
 ## ⚡ OPERATIONAL METRICS
