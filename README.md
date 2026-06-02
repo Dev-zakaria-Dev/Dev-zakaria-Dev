@@ -10,27 +10,49 @@
 
 ---
 
-## 📊 TELEMETRY DIAGNOSTICS & ANIMATIONS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-zakaria-Dev&theme=react-dark&bg_color=0d1117&hide_border=true&color=00FF66" width="100%" alt="Activity Waveform" />
-</p>
+## 📊 TELEMETRY DIAGNOSTICS (CORE PERFORMANCE)
 
 <table width="100%">
   <tr>
+    <!-- LEFT PANEL: SYSTEM DIAGNOSTICS -->
     <td width="50%" valign="top">
-      <h4>⚡ CORE APERTURE STATS</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dev-zakaria-Dev&show_icons=true&theme=calm&bg_color=0d1117&text_color=00FF66&icon_color=00FF66&title_color=00FF66&hide_border=true" width="100%" alt="Stats Matrix" />
+      <h4>⚡ CORE APERTURE SPECIFICATIONS</h4>
+      <p><code>[STATUS: ACTIVE]</code></p>
+      <ul>
+        <li><b>Rank:</b> Full-Stack Web Developer</li>
+        <li><b>Aperture Engine:</b> Modular Monolith Architecture</li>
+        <li><b>Primary Realm:</b> Backend Infrastructure Optimization</li>
+        <li><b>System Willpower:</b> Unyielding (Perseverance)</li>
+      </ul>
+      <hr />
+      <h4>📈 ALCHEMICAL PROGRESS</h4>
+      <code>Database Indexing</code>
+      <img src="https://geps.dev/progress/100?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66" alt="100%" />
+      <code>Backend Logic (Laravel/Node)</code>
+      <img src="https://geps.dev/progress/85?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66" alt="85%" />
+      <code>Dynamic SPA (React/Vue)</code>
+      <img src="https://geps.dev/progress/70?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66" alt="70%" />
     </td>
     <td width="50%" valign="top">
-      <h4>💾 LINGUISTIC DISTRIBUTION</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-zakaria-Dev&layout=compact&theme=calm&bg_color=0d1117&text_color=a2a2a2&title_color=00FF66&hide_border=true" width="100%" alt="Language Registry" />
+      <h4>💾 LINGUISTIC DISTRIBUTION RATIOS</h4>
+      <p><code>[COMPILING ECOSYSTEM...]</code></p>
+      <table>
+        <tr><td><b>PHP / Laravel</b></td><td><code>████████████████████████▒▒▒▒</code> 85%</td></tr>
+        <tr><td><b>JavaScript / TS</b></td><td><code>██████████████████░░░░░░░░░░</code> 65%</td></tr>
+        <tr><td><b>SQL Databases</b></td><td><code>██████████████████████░░░░░░</code> 75%</td></tr>
+        <tr><td><b>NoSQL Engines</b></td><td><code>████████████░░░░░░░░░░░░░░░░</code> 40%</td></tr>
+      </table>
+      <br />
+      <blockquote>
+        <b>Operational Protocol:</b> Deep focus on eliminating N+1 database constraints, standardizing query speeds, and refining seamless frontend data integration layers.
+      </blockquote>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-zakaria-Dev&theme=black-ice&background=0d1117&hide_border=true" alt="Streak Graph" />
+  <!-- A perfectly stable alternative to track commitments without crashes -->
+  <img src="https://img.shields.io/badge/Aperture_Contributions-170%2B_In_Past_Year-00FF66?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 ---
@@ -70,4 +92,22 @@ graph LR
     style C fill:#0d1117,stroke:#0088FF,stroke-width:2px,color:#fff
     style D fill:#0d1117,stroke:#00FF66,stroke-width:4px,color:#fff
     style E fill:#0d1117,stroke:#FF3333,stroke-width:2px,color:#fff
+```
+
+Database Indexing Mastery  [████████████████████████████] 100%
+Backend Architecture Logic  [████████████████████████░░░░] 85%
+Frontend Vector Rendering  [████████████████████░░░░░░░░] 70%
+
+```json
+{
+  "comms": {
+    "linkedin": "[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)",
+    "secure_email": "your.email@example.com"
+  },
+  "protocols": [
+    "RESTful APIs",
+    "Calculated Monoliths",
+    "Absolute Efficiency"
+  ]
+}
 ```
