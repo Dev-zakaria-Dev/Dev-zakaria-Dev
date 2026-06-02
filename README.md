@@ -4,6 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Applications;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
+# ⚡ SYSTEM OVERVIEW: DEV-ZAKARIA-DEV ⚡
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+CORE+MODULES...;>>+FULL-STACK+DEVELOPER+DETECTED;>>+EXECUTING+OPTIMAL+WORKFLOWS..." alt="Terminal Typing" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=001f3f&height=120&section=header&text=NODE%20ONLINE&fontSize=30&animation=twinkling&fontColor=00FF66" alt="Header Banner" />
+</p>
+
+---
+
+### 🌐 CORE SPECIFICATIONS
+```yml
+host_name: Dev-zakaria-Dev
+status: ACTIVE
+environment: Linux_Arch_Ubuntu
+focus_areas: [Backend_Architecture, Full_Stack_Systems, Automation]
+```
 ---
 
 ### 💫 About Me
