@@ -98,8 +98,8 @@ Frontend Vector Rendering  [█████████████████�
 ```json
 {
   "comms": {
-    "linkedin": "[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)",
-    "secure_email": "your.email@example.com"
+    "linkedin": "[https://www.linkedin.com/in/zakaria-fekkak-5b4817289](https://www.linkedin.com/in/zakaria-fekkak-5b4817289)",
+    "secure_email": "utsuroutsuro07@gmail.com"
   },
   "protocols": [
     "RESTful APIs",
